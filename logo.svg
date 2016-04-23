@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400px" height="437px" viewBox="0 0 400 437" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-520.000000, -190.000000)">
+            <g id="logo" transform="translate(520.000000, 190.000000)">
+                <path d="M8.52651283e-14,0 L188.25565,0 C209.65312,0 230.947399,2.16028913 252.139124,6.4809322 C273.33085,10.8015753 292.259097,18.4140227 308.924435,29.3185028 C325.589773,40.222983 339.065862,54.8306523 349.353107,73.1419492 C359.640353,91.453246 364.783898,114.393459 364.783898,141.963277 C364.783898,168.710115 358.20016,192.267554 345.032486,212.636299 C331.864812,233.005045 312.936564,248.744295 288.247175,259.85452 L399.34887,437 L230.227401,437 L146.283898,280.840395 L141.963277,280.840395 L141.963277,437 L8.52651283e-14,437 L8.52651283e-14,0 Z" id="R" fill="#FFF8E1" transform="translate(199.674435, 218.500000) scale(-1, 1) translate(-199.674435, -218.500000) "></path>
+                <text id="null" font-family="PragmataPro" font-size="144" font-weight="normal" fill="#40C4FF">
+                    <tspan x="100" y="184">null</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
